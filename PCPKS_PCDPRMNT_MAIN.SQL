@@ -1,4 +1,4 @@
-CREATE OR REPLACE PACKAGE BODY FCUBEUSER.pcpks_pcdprmnt_Main AS
+CREATE OR REPLACE PACKAGE BODY pcpks_pcdprmnt_Main AS
   /*-----------------------------------------------------------------------------------------------------
   **
   ** File Name  : PCPKS_PCDPRMNT_MAIN.SQL
